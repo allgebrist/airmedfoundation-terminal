@@ -10,7 +10,9 @@ In order to achieve a reliable file management:
 
 Sharing files with the Airmed Foundation platform is pretty straightforward. Depending on their desired privacy level, one may follow two different approaches: file load with or without asymmetric encryption. We have devoted [this tutorial](https://airmedfoundation.thechain.tech/tutorial) to explain both of them.
 
-## Instalation
+## Instalation and Usage
+
+
 
 **License:** This project works under the GNU Affero General Public License v3.0. 
 
