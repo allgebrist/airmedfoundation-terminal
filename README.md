@@ -8,6 +8,6 @@ The Airmed Foundation is an open source initiative that provides a secure channe
 * We achieve secure access to files using asymmetric cryptography. 
 * We protect and store access keys in the Hyperledger Fabric blockchain.
 
-working under the GNU Affero General Public License v3.0. 
+**License:** This project works under the GNU Affero General Public License v3.0. 
 
 
