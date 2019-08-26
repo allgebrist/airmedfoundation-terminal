@@ -25,7 +25,9 @@ ipfs init
 
 **Docker and Docker Compose**
 
-
+```
+install docker-compose
+```
 
 **Nodejs, NPM and NVM**
 
