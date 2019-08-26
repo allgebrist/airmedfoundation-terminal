@@ -36,7 +36,13 @@ nvm use 8.15
 
 **Hyperledger Fabric**
 
-
+```
+wget https://dist.ipfs.io/go-ipfs/v0.4.19/go-ipfs_v0.4.19_linux-amd64.tar.gz
+tar xvfz go-ipfs_v0.4.19_linux-amd64.tar.gz
+cd go-ipfs
+sudo ./install.sh
+ipfs init
+```
 
 **Download Airmed Foundation**
 
