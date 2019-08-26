@@ -25,14 +25,19 @@ ipfs init
 
 **Docker and Docker Compose**
 
+
+
 **Nodejs, NPM and NVM**
 
 **Hyperledger Fabric**
 
-Download Airmed Foundation
+**Download Airmed Foundation**
 
-
-
+```
+git clone https://github.com/the-chain/airmedfoundation-terminal
+cd airmedfoundation-terminal
+npm install 
+```
 
 
 **License:** This project works under the GNU Affero General Public License v3.0. 
