@@ -26,6 +26,7 @@ ipfs init
 **Docker and Docker Compose**
 
 ```
+install docker
 install docker-compose
 ```
 
