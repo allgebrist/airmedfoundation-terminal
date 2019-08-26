@@ -29,7 +29,14 @@ ipfs init
 
 **Nodejs, NPM and NVM**
 
+```
+nvm install 8.15
+nvm use 8.15
+```
+
 **Hyperledger Fabric**
+
+
 
 **Download Airmed Foundation**
 
