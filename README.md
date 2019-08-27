@@ -92,7 +92,13 @@ should now look like
 In the file fabric-api/config/configfile.yaml, you should replace the default admin certificate paths with the actual path of your project. 
 Please note that you should only modify paths from adminPrivateKey in Line 44 under Org1, and in Line 56 under Org2. Everything else must remain unchanged.
 
-As a further note, please make sure that fabric-samble and airmedfoundation-terminal are in the same directory.
+As a further advice, please make sure that fabric-samble and airmedfoundation-terminal are in the same directory. 
+
+For example:
+
+/home/root/Desktop/fabric-sample
+
+/home/root/Desktop/airmedfoundation-terminal
 
 ## Running the application
 In order to run the application, just do the following
