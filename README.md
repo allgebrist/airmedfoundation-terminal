@@ -10,7 +10,7 @@ In order to achieve a reliable file management:
 
 Sharing files with the Airmed Foundation platform is pretty straightforward. Depending on their desired privacy level, one may follow two different approaches: file load with or without asymmetric encryption. We have devoted [this tutorial](https://airmedfoundation.thechain.tech/tutorial) to explain both of them.
 
-## Instalation and Usage
+## Installation and Usage
 
 The following dependencies must be downloaded and installed in order to use Airmed Foundation's Node.js terminal:
 * Interplanetary File System (IPFS)
