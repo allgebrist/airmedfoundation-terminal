@@ -37,7 +37,7 @@ ipfs init
 
 **Docker and Docker Compose**
 
-Project website: https://docs.docker.com/install/linux/docker-ce/ubuntu/ (Docker)
+Project website: https://docs.docker.com/install/linux/docker-ce/ubuntu/ (Docker)\
 Project website: https://docs.docker.com/compose/install/ (Docker Compose)
 
 ```
