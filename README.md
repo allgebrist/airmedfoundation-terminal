@@ -92,7 +92,7 @@ docker exec -it cli peer chaincode instantiate -C mychannel -l "node" -n secureR
 
 **Edit config/datastores.js**
 
-Change values to conect to postgreSQL. In order to install postgreSQL, you can run the following command in the terminal:
+Change values to connect to postgreSQL. In order to install postgreSQL, you can run the following command in the terminal:
 ```
 docker-compose up -d
 ```
