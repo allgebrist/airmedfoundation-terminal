@@ -144,9 +144,9 @@ Now you're ready to go!
 
 ---
 
-**Contact:** This project is brought to you by (The Chain)[http://thechain.tech/], a software shop specialized in the development of applications and services based on Blockchain Technology and Artificial Intelligence. Any questions that might arise should be sent to the project's maintainers.
+**Contact:** This project is brought to you by [The Chain](http://thechain.tech/), a software shop specialized in the development of applications and services based on Blockchain Technology and Artificial Intelligence. Any questions that might arise should be sent to the project's maintainers.
 
 **License:** This project works under the GNU Affero General Public License v3.0. 
 
 
-<a href="http://thechain.tech/"><img src="http://thechain.tech/images/TheChain-logo.png" width="300" height="220" /></a>
+<a href="http://thechain.tech/"><img src="http://thechain.tech/images/TheChain-logo.png" width="290" height="220" /></a>
