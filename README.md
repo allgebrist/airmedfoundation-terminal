@@ -139,7 +139,7 @@ ipfs daemon &
 node ./node_modules/sails/bin/sails.js l --redis --safe
 ```
 
-That's it! You're ready to go!
+Now you're ready to go!
 
 ---
 
