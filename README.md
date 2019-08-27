@@ -106,7 +106,8 @@ ipfs daemon &
 ```
 
 - Run the server
-```node ./node_modules/sails/bin/sails.js l --redis --safe
+```
+node ./node_modules/sails/bin/sails.js l --redis --safe
 ```
 
 **License:** This project works under the GNU Affero General Public License v3.0. 
