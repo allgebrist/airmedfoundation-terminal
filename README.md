@@ -16,7 +16,7 @@ The following dependencies must be downloaded and installed in order to use Airm
 * Interplanetary File System (IPFS)
 * Docker
 * Docker Compose
-* Nodejs
+* Node.js
 * NPM
 * NVM
 * Hyperledger Fabric
@@ -45,14 +45,21 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 sudo apt-get install docker-compose
 ```
 
-**Nodejs, NPM and NVM**
+**Node.js, NPM and NVM**
+
+Project website: https://nodejs.org/en/ (Node.js)\
+Project website: https://www.npmjs.com/ (NPM)\
+Project repo: https://github.com/creationix/nvm#installation-and-update (NVM)
 
 ```
+sudo apt-get install nodejs
 nvm install 8.15.0
 nvm use 8.15.0
 ```
 
 **Hyperledger Fabric**
+
+Project website: https://www.hyperledger.org/projects/fabric
 
 ```
 git clone https://github.com/hyperledger/fabric-samples
@@ -64,6 +71,8 @@ cd first-network
 ```
 
 **Download Airmed Foundation**
+
+Project website: https://airmedfoundation.thechain.tech/
 
 ```
 git clone https://github.com/the-chain/airmedfoundation-terminal
