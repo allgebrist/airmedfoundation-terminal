@@ -74,10 +74,12 @@ docker-compose up -d
 - Edit config/policies.js
 For testing purposes, remove comment from line 20. 
 That is, line 
-```//'*': 'isHTTPS',
+```
+//'*': 'isHTTPS',
 ```
 should now look like
-```'*': 'isHTTPS',
+```
+'*': 'isHTTPS',
 ```
 
 - Edit Hyperledger configuration file:
