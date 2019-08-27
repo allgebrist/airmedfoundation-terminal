@@ -64,6 +64,27 @@ docker exec -it cli peer chaincode instantiate -C mychannel -l "node" -n airmed 
 docker exec -it cli peer chaincode instantiate -C mychannel -l "node" -n secureRec -v v1 -c '{"Args":[]}' -o orderer.example.com:7050 --tls --cafile /opt/gopath/src/github.com/hyperledger/fabric/peer/crypto/ordererOrganizations/example.com/orderers/orderer.example.com/msp/tlscacerts/tlsca.example.com-cert.pem
 ```
 
+## Configuration of Airmed Foundation's server
+
+- Edit config/datastores.js
+Change values to conect to postgreSQL. In order to install postgreSQL, you can run the following command in the terminal:
+docker-compose up -d
+
+
+- Edit config/policies.js
+For testing purposes, remove comment from line 20. 
+That is, line 
+```//'*': 'isHTTPS',
+```
+should now look like
+```'*': 'isHTTPS',
+```
+
+- Edit Hyperledger configuration file:
+In the file fabric-api/config/configfile.yaml, you should replace the default admin certificate paths with the actual path of your project. 
+Please note that you should only modify paths from adminPrivateKey in Line 44 under Org1, and in Line 56 under Org2. Everything else must remain unchanged.
+
+As a further note, please make sure that fabric-samble and airmedfoundation-terminal are in the same directory.
 
 **License:** This project works under the GNU Affero General Public License v3.0. 
 
