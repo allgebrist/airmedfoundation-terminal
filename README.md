@@ -21,7 +21,7 @@ The following dependencies must be downloaded and installed in order to use Airm
 * NVM
 * Hyperledger Fabric
 
-Here we will show you how to install and give you relevant links for each of them.
+Here we will guide you in this process.
 
 **Interplanetary File System (IPFS)**
 
@@ -37,9 +37,12 @@ ipfs init
 
 **Docker and Docker Compose**
 
+Project website: https://docs.docker.com/install/linux/docker-ce/ubuntu/ (Docker)
+Project website: https://docs.docker.com/compose/install/ (Docker Compose)
+
 ```
-install docker
-install docker-compose
+sudo apt-get install docker-ce docker-ce-cli containerd.io
+sudo apt-get install docker-compose
 ```
 
 **Nodejs, NPM and NVM**
