@@ -122,7 +122,7 @@ For example:\
 /home/root/Desktop/airmedfoundation-terminal
 
 ## Running the application
-In order to run the application, just do the following
+Running the application is very simple. You just need to:
 
 - Run IPFS
 ```
