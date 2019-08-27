@@ -12,7 +12,14 @@ Sharing files with the Airmed Foundation platform is pretty straightforward. Dep
 
 ## Instalation and Usage
 
-The following dependencies must be downloaded and installed in order to use Airmed Foundation's Node.js terminal:
+The following dependencies must be downloaded and installed in order to use Airmed Foundation's Node.js terminal:\
+..*Interplanetary File System (IPFS)
+..*Docker
+..*Docker Compose
+..*Nodejs
+..*NPM
+..*NVM
+..*Hyperledger Fabric
 
 **Interplanetary File System (IPFS)**
 
