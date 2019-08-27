@@ -1,3 +1,6 @@
+
+<a href="https://airmedfoundation.thechain.tech/"><img src="https://media.licdn.com/dms/image/C4E0BAQGs_7h67j1y0w/company-logo_400_400/0?e=1574899200&v=beta&t=KLfoiPbZSGZvBHmqhxCTYC211phfpr46j4pedsZMJ8I" width="200" height="200" /></a>
+
 # Airmed Foundation - Node.js Terminal 
 
 The [Airmed Foundation](https://airmedfoundation.thechain.tech/) is an open source initiative that provides a secure channel to store and transfer medical records. It is based on the Interplanetary File System (IPFS) and Hyperledger Fabric. The conjunction of these technologies guarantees the immutability and availability of the data.
@@ -9,8 +12,6 @@ In order to achieve a reliable file management:
 * We protect and store access keys in the Hyperledger Fabric blockchain.
 
 Sharing files with the Airmed Foundation platform is pretty straightforward. Depending on their desired privacy level, one may follow two different approaches: file load with or without asymmetric encryption. We have devoted [this tutorial](https://airmedfoundation.thechain.tech/tutorial) to explain both of them.
-
-<a href="https://airmedfoundation.thechain.tech/"><img src="https://media.licdn.com/dms/image/C4E0BAQGs_7h67j1y0w/company-logo_400_400/0?e=1574899200&v=beta&t=KLfoiPbZSGZvBHmqhxCTYC211phfpr46j4pedsZMJ8I" width="200" height="200" /></a>
 
 ## Installation and Usage
 
