@@ -92,6 +92,22 @@ Please note that you should only modify paths from adminPrivateKey in Line 44 un
 
 As a further note, please make sure that fabric-samble and airmedfoundation-terminal are in the same directory.
 
+## Running the application
+In order to run the application, just do the following
+
+- Run IPFS
+```
+ipfs daemon &
+```
+
+- Run the sync process
+```
+./init.sh &
+```
+
+- Run the server
+```node ./node_modules/sails/bin/sails.js l --redis --safe
+
 **License:** This project works under the GNU Affero General Public License v3.0. 
 
 <a href="https://airmedfoundation.thechain.tech/"><img src="https://media.licdn.com/dms/image/C4E0BAQGs_7h67j1y0w/company-logo_400_400/0?e=1574899200&v=beta&t=KLfoiPbZSGZvBHmqhxCTYC211phfpr46j4pedsZMJ8I" width="200" height="200" /></a>
