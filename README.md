@@ -149,4 +149,4 @@ Now you're ready to go!
 **License:** This project works under the GNU Affero General Public License v3.0. 
 
 
-<a href="http://thechain.tech/"><img src="http://thechain.tech/images/TheChain-logo.png" width="200" height="200" /></a>
+<a href="http://thechain.tech/"><img src="http://thechain.tech/images/TheChain-logo.png" width="300" height="220" /></a>
