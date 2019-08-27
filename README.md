@@ -21,7 +21,11 @@ The following dependencies must be downloaded and installed in order to use Airm
 * NVM
 * Hyperledger Fabric
 
+Here we will show you how to install and give you relevant links for each of them.
+
 **Interplanetary File System (IPFS)**
+
+Project website: (https://ipfs.io/)[https://ipfs.io/]
 
 ```
 wget https://dist.ipfs.io/go-ipfs/v0.4.19/go-ipfs_v0.4.19_linux-amd64.tar.gz
