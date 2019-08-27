@@ -94,8 +94,8 @@ Please note that you should only modify paths from adminPrivateKey in Line 44 un
 
 As a further advice, please make sure that fabric-samble and airmedfoundation-terminal are in the same directory. 
 
-For example:
-/home/root/Desktop/fabric-sample
+For example:\
+/home/root/Desktop/fabric-sample\
 /home/root/Desktop/airmedfoundation-terminal
 
 ## Running the application
