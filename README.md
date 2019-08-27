@@ -25,7 +25,7 @@ Here we will show you how to install and give you relevant links for each of the
 
 **Interplanetary File System (IPFS)**
 
-Project website: (https://ipfs.io/)[https://ipfs.io/]
+Project website: https://ipfs.io/
 
 ```
 wget https://dist.ipfs.io/go-ipfs/v0.4.19/go-ipfs_v0.4.19_linux-amd64.tar.gz
