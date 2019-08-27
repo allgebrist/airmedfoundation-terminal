@@ -10,7 +10,6 @@ In order to achieve a reliable file management:
 
 Sharing files with the Airmed Foundation platform is pretty straightforward. Depending on their desired privacy level, one may follow two different approaches: file load with or without asymmetric encryption. We have devoted [this tutorial](https://airmedfoundation.thechain.tech/tutorial) to explain both of them.
 
-
 <a href="https://airmedfoundation.thechain.tech/"><img src="https://media.licdn.com/dms/image/C4E0BAQGs_7h67j1y0w/company-logo_400_400/0?e=1574899200&v=beta&t=KLfoiPbZSGZvBHmqhxCTYC211phfpr46j4pedsZMJ8I" width="200" height="200" /></a>
 
 ## Installation and Usage
@@ -145,11 +144,9 @@ Now you're ready to go!
 
 ---
 
-**Contact:** Any questions that might arise should be sent to the project's maintainers.
+**Contact:** This project is brought to you by (The Chain)[http://thechain.tech/], a software shop specialized in the development of applications and services based on Blockchain Technology and Artificial Intelligence. Any questions that might arise should be sent to the project's maintainers.
 
 **License:** This project works under the GNU Affero General Public License v3.0. 
 
 
-
-
-
+<a href="http://thechain.tech/"><img src="http://thechain.tech/images/TheChain-logo.png" width="200" height="200" /></a>
