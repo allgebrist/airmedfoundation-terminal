@@ -74,6 +74,7 @@ docker-compose up -d
 
 
 **Edit config/policies.js**
+
 For testing purposes, remove comment from line 20. 
 That is, line 
 ```
@@ -85,6 +86,7 @@ should now look like
 ```
 
 **Edit Hyperledger configuration file**
+
 In the file fabric-api/config/configfile.yaml, you should replace the default admin certificate paths with the actual path of your project. 
 Please note that you should only modify paths from adminPrivateKey in Line 44 under Org1, and in Line 56 under Org2. Everything else must remain unchanged.
 
